@@ -645,6 +645,9 @@
         <mxCell id="D-KCKCwvEtQZyQp4DDMc-17" value="" style="shape=rect;shadow=0;rotation=90;fillColor=#99FFFF;" vertex="1" parent="D-KCKCwvEtQZyQp4DDMc-77">
           <mxGeometry x="-7.304190476190412" y="28.75278443113772" width="76.76190476190476" height="40.56175149700599" as="geometry" />
         </mxCell>
+        <mxCell id="D-KCKCwvEtQZyQp4DDMc-78" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.desk_corner;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="1448.69" y="74.27" width="77.79" height="70.75" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
