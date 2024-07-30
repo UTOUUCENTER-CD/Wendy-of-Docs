@@ -633,9 +633,9 @@
             <mxPoint x="1190" y="183" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dgrp1DhxdcyzD_cmviDK-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="dgrp1DhxdcyzD_cmviDK-2">
+        <mxCell id="dgrp1DhxdcyzD_cmviDK-4" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1074" y="583" as="sourcePoint" />
+            <mxPoint x="1074" y="567" as="sourcePoint" />
             <mxPoint x="1190" y="573" as="targetPoint" />
           </mxGeometry>
         </mxCell>
